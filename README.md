@@ -1,4 +1,4 @@
-# The_Grok-head(v1.5)
+# The_Grok-head(v1.5.1)
 it is a Grok AI gui application based on the grok ai api , an chatbot app. currrently token is fiexed at 200 you can chage it in the code
 
 
