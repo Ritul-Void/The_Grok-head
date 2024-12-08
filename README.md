@@ -1,6 +1,6 @@
 # The_Grok-head(v1.5.1)
 it is a Grok AI gui application based on the grok ai api , an chatbot app. currrently token is fiexed at 200 you can chage it in the code
-
+### To run this application YOU NEED THE GROK AI API KEY FROM XAI CURRENTLY FREE TILL DECEMBER 
 
 # Grok AI Chat Bot 
 
